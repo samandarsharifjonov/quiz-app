@@ -1,0 +1,1 @@
+C:\Users\User\StudioProjects\quiz_app\build\app\intermediates\cxx\RelWithDebInfo\1f1a274a\obj\arm64-v8a
